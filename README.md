@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m [**Faneva**](https://faneva-portfolio-eight.vercel.app/), a Full-Stack MERN developer and a UI/UX Designer based in FIANARANTSOA.
+I’m [**Faneva**](https://faneva-portfolio-eight.vercel.app/), a Full-Stack MERN developer and a UI/UX Designer based in ANTANANARIVO.
 
 I design and build whatever I can imagine.
 
