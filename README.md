@@ -4,7 +4,7 @@ I’m [**Faneva**](https://fetrafaneva.vercel.app/), a Full-Stack MERN developer
 
 I design and build whatever I can imagine.
 
-My main tech stack is MERN (MongoDB, Express, React, Node.js) and Nextjs. My favorite tools are Figma, Adobe XD, and Workflow.
+My main tech stack is MERN (MongoDB, Express, React, Node.js) and Nextjs. My favorite tools are Figma, Adobe XD.
 
 My favorite project i've done is [FleetTrack](https://github.com/fetrafaneva/fleettrack).
 
